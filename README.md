@@ -33,10 +33,6 @@ flowchart TD
 ```
 
 
-Links: 
-   Data: https://www.kaggle.com/datasets/mathurinache/citation-network-dataset/code
-
-
 ## Список использованной литературы
   1. arXiv Dataset // Kaggle URL: https://www.kaggle.com/datasets/Cornell-University/arxiv (дата обращения: 30.09.2025).
   2. Логистическая регрессия // GetSomeMath URL: http://getsomemath.ru/subtopic/machine_learning/linear_ml_models/logistic_regression (дата обращения: 15.09.2025).
